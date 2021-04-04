@@ -12,3 +12,4 @@ high_2.kt</p>
 <p>Navigation 컴포넌트(jetpack)
 <br>-> 하나의 MainActivity, 여러개의 Fragment를 사용하여 화면 이동
 </p>
+<p>참고: https://youtu.be/M1e2tLnzVPo</P>
