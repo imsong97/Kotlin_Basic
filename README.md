@@ -5,7 +5,8 @@
 basic.kt<br>
 basic_class.kt<br>
 high_1.kt<br>
-high_2.kt</p>
+high_2.kt<br>
+collection_map.kt</p>
 <hr><br>
 <h2>KotlinPrac_1</h2>
 <img src="https://user-images.githubusercontent.com/56987664/113508796-feef7c80-958c-11eb-84b7-1f91fe9e2b1b.png" width="230px">
